@@ -34,3 +34,9 @@ A-Phisher/
 ├── analysis/
 ├── screenshots/
 └── report.pdf
+
+
+---
+
+## ⚠️ Disclaimer
+This project is developed strictly for educational and cybersecurity awareness purposes. No real user data is collected or misused.
