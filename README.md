@@ -29,3 +29,8 @@ A cybersecurity awareness tool designed to simulate phishing attacks and analyze
 ---
 
 ## 📁 Project Structure
+A-Phisher/
+├── templates/
+├── analysis/
+├── screenshots/
+└── report.pdf
